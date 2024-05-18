@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "blaka";
+  src: url("https://fonts.googleapis.com") format("blaka");
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: darkslategray;
+  font-family: blaka;
+}
